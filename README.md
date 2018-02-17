@@ -16,7 +16,7 @@
 
 ## Step 4:
  Sortiramo "recnike" u kojima su reci unapred odredjene duzine. Sortiranje reci vrsimo prema listama slova.
-NOT DONE
+<!-- NOT DONE -->
 
 ## Step 5:
  Realizovanje random generisanja 12 slova.
