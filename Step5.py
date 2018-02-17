@@ -9,3 +9,5 @@ for br_slova in range(1, 13):
 
 # TODO Izvrsiti normalizaciju random funkcije
 # TODO Ulepsati ispis
+
+# Nesto
