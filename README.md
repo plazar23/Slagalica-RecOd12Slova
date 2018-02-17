@@ -6,7 +6,7 @@
  <!-- DONE -->
 
 ## Step 2:
- Kreiramo .txt recnik koji u jednoj linij sadrzi rec, broj slova reci i listu sortiranih slova reci po azbucnom ili abecednom redosledu.
+ Kreiramo .txt recnik koji u jednoj linij sadrzi rec, broj slova reci i listu sortiranih slova reci po abecednom redosledu.
 <!-- DONE -->
 
 ## Step 3:
