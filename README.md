@@ -11,8 +11,8 @@
 
 ## Step 3:
  Kreiramo .txt fajlove "recnike" u kojima su reci samo od odgovarajucih broja slova. Primer reci3Slova, reci7Slova, itd.
- Takodje upisujemo i sortiranu listu slova reci pored reci. Broj slova (2-12)
-NOT DONE
+ Takodje upisujemo i sortiranu listu slova reci pored reci. Broj slova (4-12)
+<!-- DONE -->
 
 ## Step 4:
  Sortiramo "recnike" u kojima su reci unapred odredjene duzine. Sortiranje reci vrsimo prema listama slova.
