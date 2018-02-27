@@ -8,7 +8,8 @@ reci9slova = open('reci9slova.txt', 'w', encoding="utf-8")
 reci10slova = open('reci10slova.txt', 'w', encoding="utf-8")
 reci11slova = open('reci11slova.txt', 'w', encoding="utf-8")
 reci12slova = open('reci12slova.txt', 'w', encoding="utf-8")
-ostalereci = open('osatlereci.txt', 'w', encoding="utf-8")
+ostalereci = open('osatlereci.txt', 'w', encoding="utf-8") #ovo je lepse u petlji da se odradi, i da postoji niz koji se 
+#sastoji od imena fajlova
 
 pomocnalista = list()
 pomocnistring = str()
